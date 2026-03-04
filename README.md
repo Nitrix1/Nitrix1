@@ -1,4 +1,4 @@
 student  
 a.s. engineering  
   
-i dabble in everything. html & css, javascript, lua
+i dabble in many things. html, css, javascript, lua, python
